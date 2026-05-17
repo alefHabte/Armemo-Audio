@@ -1,0 +1,9 @@
+# Node/Next.js - website directory
+website/node_modules/
+website/.next/
+website/.env.local
+website/.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
